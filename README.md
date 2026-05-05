@@ -229,8 +229,8 @@ forecast
 - precipitation_chance: number — Chance of precipitation as a percentage
 - wind_speed: number — Expected wind speed
 
-  ### Historical Weather Response Attributes
-  location
+### Historical Weather Response Attributes
+location
 - city: string — Name of the city
 - country: string — ISO country code
 - latitude: number — Geographic latitude
