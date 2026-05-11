@@ -62,7 +62,7 @@ Accept: application/json
 Content-Type: application/json
 ```
 
-## Response Body
+### Response Body
 
 ```json
 {
@@ -114,7 +114,7 @@ Accept: application/json
 Content-Type: application/json
 ```
 
-## Response Body
+### Response Body
 
 ```json
 {
@@ -171,7 +171,7 @@ Accept: application/json
 Content-Type: application/json
 ```
 
-## Response Body
+### Response Body
 ```json
 {
   "location": {
