@@ -5,9 +5,9 @@
 - [Base URL](#base-url)
 - [Authorization](#authorization)
 - [Endpoints](#endpoints)
-  - [Get Current Weather](#get-current-weather)
-  - [Get Forecast](#get-forecast)
-  - [Get Historical Weather](#get-historical-weather)
+  - [Current Weather](#get-current-weather)
+  - [Forecast](#get-forecast)
+  - [Historical Weather](#get-historical-weather)
 - [Response Attributes](#response-attributes)
 - [Success and Error Codes](#success-and-error-codes)
 
@@ -33,7 +33,7 @@ Content-Type: application/json
 ---
 
 ## Endpoints
-### Get Current Weather
+### Current Weather
 Returns the current weather conditions for a specified location.
 
 **Request**
@@ -84,7 +84,7 @@ Content-Type: application/json
 ```
 
 
-### Get Forecast
+### Forecast
 Returns forecast weather data for a specified location.
 
 **Request**
@@ -140,7 +140,7 @@ Content-Type: application/json
 ```
 
 
-### Get Historical Weather
+### Historical Weather
 Returns historical weather data for a specified location and date range.
 
 **Request** 
